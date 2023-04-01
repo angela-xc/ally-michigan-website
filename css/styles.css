@@ -7,7 +7,22 @@
     max-height: 25%;
 }
 
+.display-1 {
+    margin-bottom: 0rem;
+    padding-bottom: 1rem;
+}
 
+.carousel {
+    margin-top: 0rem;
+}
+
+.carousel-inner {
+    max-height: 40%;
+}
+
+.chicken {
+    max-width: 100%;
+}
 
 .container-fluid {
     padding-left: 2rem;
