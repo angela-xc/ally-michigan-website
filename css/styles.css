@@ -7,6 +7,10 @@
     margin-right: 0;
 }
 
+.nav-link {
+    padding-left:2rem;
+}
+
 .display-1 {
     margin-bottom: 0;
     padding-bottom: 1rem;
@@ -38,6 +42,8 @@ body {
 .image {
     max-height: 350px;
     padding-right: 1rem;
+    padding-left: 1rem;
+    max-width: 90vw;
 }
 
 footer p, footer a {
@@ -65,11 +71,15 @@ td {
     color:white;
 }
 
-.display-1 {
+.display-1, h1, h5 {
     font-family: 'Lilita One', cursive;
 }
 
 .container-fluid {
     padding-left: 0;
     padding-right: 0;
+}
+
+img {
+    max-width: 100vh;
 }
