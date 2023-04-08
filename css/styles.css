@@ -39,7 +39,7 @@ body {
     min-height: 40vh;
 }
 
-.image {
+.carousel-image {
     max-height: 350px;
     padding-right: 1rem;
     padding-left: 1rem;
