@@ -71,7 +71,7 @@ td, td a {
     color:white;
 }
 
-.display-1, h1, h5 {
+.display-1, h1, h2, h5 {
     font-family: 'Lilita One', cursive;
 }
 
@@ -82,4 +82,8 @@ td, td a {
 
 img {
     max-width: 100vh;
+}
+
+h2 {
+    font-size: 3rem;
 }
