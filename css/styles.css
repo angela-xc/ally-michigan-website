@@ -81,9 +81,23 @@ td, td a {
 }
 
 img {
-    max-width: 100vh;
+    max-width: 100%;
+}
+
+.article-img {
+    max-width: 90%;
+    justify-self: center;
 }
 
 h2 {
     font-size: 3rem;
+}
+
+.article {
+    border-style: solid;
+    border-radius: 2rem;
+    border-color: white;
+    height: 40vh;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
