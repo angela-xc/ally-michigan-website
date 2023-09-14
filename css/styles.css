@@ -101,3 +101,24 @@ h2 {
     margin-top: 2rem;
     margin-bottom: 2rem;
 }
+
+.board-img {
+    display: block;
+    max-height: 40vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.board-name {
+    font-family: 'Lilita One', cursive;
+    font-size: 4rem;
+    margin-bottom: 0rem;
+}
+
+.board-role {
+    font-size: 1.5rem;
+}
+
+.board-bio {
+    font-size: 1rem;
+}
