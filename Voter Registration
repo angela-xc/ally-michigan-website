@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="icon" type="image/x-icon" href="img/ally.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ALLY Michigan</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lilita+One&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container-fluid">
+
+      <nav class="navbar navbar-expand-lg navbar-dark">
+        <a class="navbar-brand" href="index.html">ALLY</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="events.html">Events</a>
+            </li>
+              <li class="nav-item">
+                <a class="nav-link" href="board.html">Board</a>
+              </li>
+            </li>
+              <li class="nav-item">
+                <a class="nav-link" href="get-involved.html">Get Involved</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+      <p class="display-1 text-center">ALLY Events</p>
+      
+      <p class="text-center">For more information, visit our <a href="https://instagram.com/allymichigan?igshid=YmMyMTA2M2Y=">Instagram</a>!</p>
+      <p class="text-center">Currently, we are the only branch of ALLY meeting during the school year!</p>
+      <div class="grid">
+        <div class="row">
+          <div class="col">
+            <div class="container">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th scope="col">Event</th>
+                    <th scope="col">Location</th>
+                    <th scope="col">Time</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th scope="row">College Panel</th>
+                    <td>Online Zoom</td>
+                    <td>March 26th 7 PM</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Speaker Event: Sarah Liang</th>
+                    <td>Online Zoom</td>
+                    <td>April 14th 5 PM</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Speaker Event: Tiara Yakini (Racial Discrimination)</th>
+                    <td>Online Zoom</td>
+                    <td>June 21st 1 PM</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">ALLY College Panel</th>
+                    <td><a href="https://harvard.zoom.us/j/3800376517">Online Zoom</a></td>
+                    <td>June 24th 4 PM</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Modern Brain Speech & Debate Workshop</th>
+                    <td>Online Zoom</td>
+                    <td>July 8th 1 PM</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Bonding Event</th>
+                    <td><a href="https://goo.gl/maps/QYiQEVw3PyshVEv98">County Farm Park</a></td>
+                    <td>July 15th 4 PM</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Food Gatherers Volunteering</th>
+                    <td><a href="https://goo.gl/maps/h1kusdE15AsbU1GL9">Food Gatherers</a></td>
+                    <td>July 28th 1 PM</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Speaker Event: Senator Stephanie Chang</th>
+                    <td><a href="https://goo.gl/maps/kB334J8DmDALTGc49">AADL Pittsfield Library</a></td>
+                    <td>August 12th 3 PM</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Speaker Event: Princeton Admissions Officer Sarah Yoon</th>
+                    <td>Online Zoom</td>
+                    <td>August 19th</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Volunteer Event: Nature Preservation Area</th>
+                    <td><a href="https://maps.app.goo.gl/UJmcafF3eBw6aW6aA">Bird Hills Nature Area</a></td>
+                    <td>September 30th</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <footer class="bd-footer py-4 py-md-5 mt-5">
+        <div class="py-4 py-md-5 px-4 px-md-3">
+          <div class="row align-items-center">
+            <div class="col text-center">
+              <img src="img/whitebigally.png" alt="ALLY Logo" style="max-height: 10vh;">
+              <p class="mb-0">Copyright &copy; 2023 David Chen</p>
+              <p>Made using Bootstrap 5.3</p>
+            </div>
+            <div class="col text-center">
+              <h5>Contact Us</h5>
+              <p class="mb-0">Email: allyassemblemichigan@gmail.com</p>
+              <p>Instagram: <a href="https://instagram.com/allymichigan?igshid=YmMyMTA2M2Y=">@allymichigan</a></p>
+            </div>
+            <div class="col text-center">
+              <h5>Learn More</h5>
+              <a href="https://www.allyassemble.org/">Main Ally Website</a>
+            </div>
+          </div>
+        </div>
+      </footer>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N" crossorigin="anonymous"></script>
+    </div>
+    </body>
+    </html>
